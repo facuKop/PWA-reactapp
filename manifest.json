@@ -1,7 +1,7 @@
 {
 "name": "React Web App",
 "short_name": "React PWA App",
-"start_url": "/",
+"start_url": "https://ashy-flower-04d58740f.3.azurestaticapps.net/",
 "display": "standalone",
 "description": "This is a sample React Web App builded into PWA",
 "lang": "English",
@@ -53,7 +53,7 @@
 "shortcuts": [
     {
         "name":"PWA_React",
-        "url":"https://ashy-flower-04d58740f.3.azurestaticapps.net/PWA_React",
+        "url":"https://ashy-flower-04d58740f.3.azurestaticapps.net/",
         "description":"Shortcut to App"
     }
 ]
