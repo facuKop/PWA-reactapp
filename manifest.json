@@ -1,7 +1,7 @@
 {
 "name": "React Web App",
 "short_name": "React PWA App",
-"start_url": "https://ashy-flower-04d58740f.3.azurestaticapps.net/",
+"start_url": "https://yellow-bay-03753850f.3.azurestaticapps.net/",
 "protocol_handlers":[{}],
 "display": "standalone",
 "display_override":"standalone",
@@ -48,14 +48,14 @@
 "related_applications": [
     {
         "platform":"windows",
-        "url": "https://ashy-flower-04d58740f.3.azurestaticapps.net/"
+        "url": "https://yellow-bay-03753850f.3.azurestaticapps.net/"
     }
 ],
 "prefer_related_applications": false,
 "shortcuts": [
     {
         "name":"PWA_React",
-        "url":"https://ashy-flower-04d58740f.3.azurestaticapps.net/",
+        "url":"https://yellow-bay-03753850f.3.azurestaticapps.net/",
         "description":"Shortcut to App"
     }
 ]
